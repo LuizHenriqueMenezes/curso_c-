@@ -1,0 +1,15 @@
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\bin\Debug\net8.0\aula12.exe
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\bin\Debug\net8.0\aula12.deps.json
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\bin\Debug\net8.0\aula12.runtimeconfig.json
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\bin\Debug\net8.0\aula12.dll
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\bin\Debug\net8.0\aula12.pdb
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\obj\Debug\net8.0\aula12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\obj\Debug\net8.0\aula12.AssemblyInfoInputs.cache
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\obj\Debug\net8.0\aula12.AssemblyInfo.cs
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\obj\Debug\net8.0\aula12.csproj.CoreCompileInputs.cache
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\obj\Debug\net8.0\aula12.sourcelink.json
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\obj\Debug\net8.0\aula12.dll
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\obj\Debug\net8.0\refint\aula12.dll
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\obj\Debug\net8.0\aula12.pdb
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\obj\Debug\net8.0\aula12.genruntimeconfig.cache
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula12\obj\Debug\net8.0\ref\aula12.dll
