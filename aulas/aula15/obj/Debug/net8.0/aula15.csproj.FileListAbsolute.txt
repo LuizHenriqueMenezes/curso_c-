@@ -1,0 +1,15 @@
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\obj\Debug\net8.0\aula15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\obj\Debug\net8.0\aula15.AssemblyInfoInputs.cache
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\obj\Debug\net8.0\aula15.AssemblyInfo.cs
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\obj\Debug\net8.0\aula15.csproj.CoreCompileInputs.cache
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\obj\Debug\net8.0\aula15.sourcelink.json
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\bin\Debug\net8.0\aula15.exe
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\bin\Debug\net8.0\aula15.deps.json
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\bin\Debug\net8.0\aula15.runtimeconfig.json
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\bin\Debug\net8.0\aula15.dll
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\bin\Debug\net8.0\aula15.pdb
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\obj\Debug\net8.0\aula15.dll
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\obj\Debug\net8.0\refint\aula15.dll
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\obj\Debug\net8.0\aula15.pdb
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\obj\Debug\net8.0\aula15.genruntimeconfig.cache
+C:\Users\luiz\Documents\programas\curso_csharp\aulas\aula15\obj\Debug\net8.0\ref\aula15.dll
